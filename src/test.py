@@ -201,7 +201,7 @@ class SimpleMovieTester:
 
 if __name__ == "__main__":
     # IMPORTANT: Replace with your actual TMDB API key
-    TMDB_API_KEY = "6bd9c6be12f52c21691a2cc2d4187047"
+    TMDB_API_KEY = "YOur_tmdb_api"
     
     if TMDB_API_KEY == "YOUR_TMDB_API_KEY_HERE":
         print("❌ Please replace 'YOUR_TMDB_API_KEY_HERE' with your actual TMDB API key")
