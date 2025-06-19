@@ -26,7 +26,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # TMDB API Key
-TMDB_API_KEY = "6bd9c6be12f52c21691a2cc2d4187047"
+TMDB_API_KEY = "YOur_tmdb_api"
 
 class MovieRating(BaseModel):
     """Pydantic model for movie ratings"""
